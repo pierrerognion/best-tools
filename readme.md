@@ -1,4 +1,4 @@
-⚠️ WARNING: WORK IN PROGRESS
+⚠️ WARNING: Work in progress. More links to come, with hyperlinks too... Come back later 😎
 
 ## Command Line
 
