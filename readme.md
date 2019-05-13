@@ -1,5 +1,3 @@
-# Best Tools
-
 # DX
 
 ## Command Line
@@ -22,7 +20,53 @@
 
 - Postman
 
+## CMS
+
+- Contentful
+- Netlify CMS
+- Strapi
+
+## Deploy
+
+- AWS
+- Netlify
+- Heroku
+
+## Courses
+
+- CodeCademy
+- Treehouse
+- Lynda
+- OpenClassrooms
+- Flexbox Froggy
+- Salesforce Trailhead
+
+## Dev Blogs
+
+- Overreacted.io
+
+## APIs
+
+- Mapbox
+- Google API
+
 # UX/UI
+
+## Images
+
+- Unsplash
+
+## Icons
+
+- Font Awesome
+
+## Fonts
+
+- Google Fonts
+
+## Illustrations
+
+- Undraw
 
 ## Prototyping
 
@@ -32,12 +76,29 @@
 - Marvel
 - Framer
 
+# Sales/Marketing
+
+## Email
+
+- Mailchimp
+
+## CRM
+
+- Salesforce
+- Hubspot
+
+## Analytics
+
+- Google Analytics
+
 # Other
 
 ## Social
 
 - Slack
 - Discord
+- Twitter
+- Reddit
 
 ## One-for-all apps
 
@@ -49,16 +110,32 @@
 - Trello
 - Asana
 
+## Magic Boards
+
+- MIRO
+- Whimsical
+
 ## Todo
 
 - Things
+- Todoist
 
 ## Security
 
 - 1Password
 
----
+## News
 
-## Title
+- Medium
+- Hacker News
+- Product Hunt
 
-- [Name](https://google.com/) - Description.
+## Need Help & Documentation
+
+- Stack Overflow
+- Mozilla Developer Network
+
+## Slack Bots
+
+- Statsbot
+- Mailchimp
