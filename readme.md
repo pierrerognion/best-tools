@@ -1,4 +1,4 @@
-# DX
+⚠️ WARNING: WORK IN PROGRESS
 
 ## Command Line
 
@@ -6,7 +6,7 @@
 - Hyper
 - Terminal - MacOS's default terminal.
 
-## Text Editors
+## Source-Code Editors
 
 - Visual Studio Code
 - Sublime Text
@@ -50,8 +50,6 @@
 - Mapbox
 - Google API
 
-# UX/UI
-
 ## Images
 
 - Unsplash
@@ -76,8 +74,6 @@
 - Marvel
 - Framer
 
-# Sales/Marketing
-
 ## Email
 
 - Mailchimp
@@ -90,8 +86,6 @@
 ## Analytics
 
 - Google Analytics
-
-# Other
 
 ## Social
 
