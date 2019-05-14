@@ -71,6 +71,7 @@
 - Nucleo
 - Flaticon
 - Icon Store
+- The Noun Project
 
 ## Fonts
 
@@ -79,6 +80,11 @@
 ## Illustrations
 
 - Undraw
+
+## Sketch Resources
+
+- Sketch App Sources
+- Sketch Repo
 
 ## Design Inspiration
 
@@ -90,6 +96,10 @@
 ## UI Components Management
 - Storybook
 - Bit.dev
+
+## Color palette
+
+- Color Hunt
 
 ## Prototyping
 
