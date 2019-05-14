@@ -24,7 +24,9 @@
 
 ## 🐱 Git-related
 
-- Github Desktop
+- Github
+- Gitlab
+- Bitbucket
 
 ## 🔗 API Documentation & Testing
 
@@ -156,6 +158,7 @@
 
 - Trello
 - Asana
+- JIRA
 
 ## 🧪 Magic Boards
 
@@ -201,3 +204,4 @@
 - Reset CSS
 - Excuses For Lazy Coders
 - Scotch.io
+- Datadog
