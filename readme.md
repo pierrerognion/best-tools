@@ -66,6 +66,7 @@
 - Salesforce Trailhead
 - Udemy
 - Pluralsight
+- Glitch - https://glitch.com/
 
 ## Coding Problems
 
@@ -218,6 +219,7 @@
 - Re/Code
 - The Next Web
 - CSS Tricks
+- DEV.to - https://dev.to/
 
 ## 🤳 Screencast & GIF
 - Loom
@@ -262,6 +264,10 @@
 - Momentum
 - Whatruns
 
+## Remote Work Resources
+
+- NomadList - https://nomadlist.com/
+- Remote OK - https://remoteok.io/
 
 ## 🤡 Other
 
