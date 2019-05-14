@@ -179,7 +179,7 @@
 - Coolors - https://coolors.co/
 - Color Hunt - https://colorhunt.co/
 
-## 🖌 Prototyping and design-dev collaboration tools
+## 🖌 Wireframing, Prototyping and Design-Dev Collaboration Tools
 
 - Sketch - https://www.sketch.com/
 - Figma - https://www.figma.com/
@@ -191,7 +191,7 @@
 - Adobe XD - https://www.adobe.com/products/xd.html
 - Proto.io - https://proto.io/
 - Balsamiq - https://balsamiq.com/
-- 
+- Axure - https://www.axure.com/
 
 ## Sketch Extensions
 
