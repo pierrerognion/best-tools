@@ -70,6 +70,11 @@
 - Pluralsight
 - Glitch - https://glitch.com/
 
+## Search engine tech
+
+- Algolia - https://www.algolia.com/
+- ElasticSearch
+
 ## Coding Problems
 
 - Daily Coding Problem - https://dailycodingproblem.com/
@@ -149,6 +154,10 @@
 
 - Storybook
 - Bit.dev
+
+## Design Portfolios 
+
+- Zach Krasner - http://design.zachkrasner.com/
 
 ## 🎨 Color palette
 
@@ -328,6 +337,10 @@
 - Design resources - https://trydesignlab.com/resources/
 - http://andrealikes.to/
 - UI Names - https://uinames.com/ Fake UI names generator
+- Namecheap
+- Email Regex - http://emailregex.com/
+- Mega Proxy - https://www.megaproxy.com/freesurf/
+- TempMail - https://temp-mail.org/fr/ - Disposable email address
 
 ## Other Curated Lists
 
