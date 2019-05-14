@@ -173,10 +173,16 @@
 
 - Sketch
 - Figma - https://www.figma.com/
-- Invision
-- Marvel
+- Invision - https://www.invisionapp.com/
+- Invision Studio - https://www.invisionapp.com/studio
+- Marvel - https://marvelapp.com/
 - Framer
 - Zeplin
+- Adobe XD
+
+## Sketch Extensions
+
+- Craft - https://www.invisionapp.com/craft
 
 ## 📩 Email
 
@@ -331,7 +337,6 @@
 - When to use which UX Research Method - https://www.nngroup.com/articles/which-ux-research-methods/
 - User Centered Design Canvas - https://ucdc.therectangles.com/#what
 - Canva - https://www.canva.com/
-- Sentry
 - The Sweet Setup - https://thesweetsetup.com/
 - Jupyter - https://jupyter.org/
 - Web.dev - https://web.dev/measure
