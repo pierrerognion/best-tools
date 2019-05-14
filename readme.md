@@ -103,7 +103,7 @@
 ## Mockups 
 
 - Sketch Sheets Templates - https://sketchsheets.com/
-- https://sneakpeekit.com/
+- Sneakpeekit - https://sneakpeekit.com/
 - Mockup World - https://www.mockupworld.co/
 
 ## 👍 Design Inspiration
@@ -240,7 +240,7 @@
 - Excuses For Lazy Coders
 - Scotch.io
 - Datadog
-- https://cash.app/bitcoin
+- Cash.app - https://cash.app/bitcoin
 - HTML Characters Reference - https://dev.w3.org/html5/html-author/charref
 - List of CSS properties - https://webplatform.github.io/docs/css/
 - Bootstrap - https://getbootstrap.com/
