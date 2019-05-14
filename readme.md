@@ -62,6 +62,10 @@
 - Udemy
 - Pluralsight
 
+## Coding Problems
+
+- Daily Coding Problem - https://dailycodingproblem.com/
+
 ## 🤓 Dev Blogs
 
 - Overreacted.io
@@ -99,6 +103,10 @@
 - Sketch App Sources - https://www.sketchappsources.com/
 - Sketch Repo - https://sketchrepo.com/
 - Freebit Supply - https://freebiesupply.com/
+
+## UI Kits 
+
+- UI Kit Le Wagon - https://uikit.lewagon.com/
 
 ## Mockups 
 
@@ -234,6 +242,20 @@
 
 - Caler Edwards https://www.youtube.com/channel/UCfzOLBT7jyHFcaTgwmnttog
 
+## Chrome Extensions 
+
+- Spider - https://spider.amie-chen.com/ Web scrapping tool
+- Notion
+- React Developer Tools
+- Pocket
+- Color Zilla
+- FontFace Ninja
+- Loom
+- JSON Viewer
+- Momentum
+- Whatruns
+
+
 ## 🤡 Other
 
 - Reset CSS
@@ -251,3 +273,6 @@
 - Sentry
 - The Sweet Setup - https://thesweetsetup.com/
 - Jupyter - https://jupyter.org/
+- Web.dev - https://web.dev/measure
+- Fraola - https://www.froala.com/wysiwyg-editor
+- Checklist Design - https://www.checklist.design/
