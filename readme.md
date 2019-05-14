@@ -31,6 +31,13 @@
 - AWS
 - Netlify
 - Heroku
+- Now
+- Surge.sh
+
+## Container Management
+
+- Docker
+- Kubernetes
 
 ## Courses
 
@@ -40,6 +47,7 @@
 - OpenClassrooms
 - Flexbox Froggy
 - Salesforce Trailhead
+- Udemy
 
 ## Dev Blogs
 
@@ -99,10 +107,12 @@
 
 - Salesforce
 - Hubspot
+- Pipedrive
 
 ## Analytics
 
 - Google Analytics
+- Google Data Studio
 
 ## Social
 
@@ -150,6 +160,10 @@
 - Re/Code
 - The Next Web
 
+## Screencast/GIF
+- Loom
+- Snagit
+
 ## Need Help & Documentation
 
 - Stack Overflow
@@ -159,3 +173,7 @@
 
 - Statsbot
 - Mailchimp
+
+## Other
+
+- Reset CSS
