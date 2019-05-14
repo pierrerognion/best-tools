@@ -1,42 +1,42 @@
 ⚠️ WARNING: Work in progress. More links to come, with hyperlinks too... Come back later 😎
 
-## Command Line
+## 🖥 Command Line
 
 - iTerm
 - Hyper
 - Terminal - MacOS's default terminal.
 
-## Source-Code Editors
+## 🛠 Source-Code Editors
 
 - Visual Studio Code
 - Sublime Text
 - Atom
 
-## IDE
+## 🔧 IDE
 
 - XCode
 
-## Online Code Editors
+## ⛓ Online Code Editors
 
 - Codepen
 - JSBin
 - Code Sandbox
 
-## Git-related
+## 🐱 Git-related
 
 - Github Desktop
 
-## API Documentation & Testing
+## 🔗 API Documentation & Testing
 
 - Postman
 
-## CMS
+## 📂 CMS
 
 - Contentful
 - Netlify CMS
 - Strapi
 
-## Deploy
+## 🚀 Deploy
 
 - AWS
 - Netlify
@@ -44,12 +44,12 @@
 - Now
 - Surge.sh
 
-## Container Management
+## 📦 Container Management
 
 - Docker
 - Kubernetes
 
-## Courses
+## 📚 Courses
 
 - CodeCademy
 - Treehouse
@@ -58,23 +58,24 @@
 - Flexbox Froggy
 - Salesforce Trailhead
 - Udemy
+- Pluralsight
 
-## Dev Blogs
+## 🤓 Dev Blogs
 
 - Overreacted.io
 
-## APIs
+## 🗺 APIs
 
 - Mapbox
 - Google API
 
-## Images
+## 📸 Images
 
 - Unsplash
 - Pexels
 - The Stocks 2
 
-## Icons
+## 🔥 Icons
 
 - Font Awesome
 - Orion
@@ -83,11 +84,11 @@
 - Icon Store
 - The Noun Project
 
-## Fonts
+## 🖋 Fonts
 
 - Google Fonts
 
-## Illustrations
+## 😉 Illustrations
 
 - Undraw
 
@@ -96,22 +97,22 @@
 - Sketch App Sources
 - Sketch Repo
 
-## Design Inspiration
+## 👍 Design Inspiration
 
 - Muzli
 - Dribbble
 - Behance
 - Pages.xyz
 
-## UI Components Management
+## 🖼 UI Components Management
 - Storybook
 - Bit.dev
 
-## Color palette
+## 🎨 Color palette
 
 - Color Hunt
 
-## Prototyping
+## 🖌 Prototyping
 
 - Sketch
 - Figma
@@ -119,58 +120,58 @@
 - Marvel
 - Framer
 
-## Email
+## 📩 Email
 
 - Mailchimp
 
-## CRM
+## 📊 CRM
 
 - Salesforce
 - Hubspot
 - Pipedrive
 
-## Analytics
+## 📈 Analytics
 
 - Google Analytics
 - Google Data Studio
 
-## Social
+## 🗣 Social
 
 - Slack
 - Discord
 - Twitter
 - Reddit
 
-## Internal wiki
+## 🔎 Internal wiki
 
 - Docusarus
 - Notion
 
-## One-for-all apps
+## 😎 One-for-all apps
 
 - Notion
 - Airtable
 
-## Project Management
+## 📕 Project Management
 
 - Trello
 - Asana
 
-## Magic Boards
+## 🧪 Magic Boards
 
 - MIRO
 - Whimsical
 
-## Todo
+## ✅ Todo
 
 - Things
 - Todoist
 
-## Security
+## 🔐 Security
 
 - 1Password
 
-## Tech News
+## 🗞 Tech News
 
 - Medium
 - Hacker News
@@ -181,21 +182,21 @@
 - The Next Web
 - CSS Tricks
 
-## Screencast & GIF
+## 🤳 Screencast & GIF
 - Loom
 - Snagit
 
-## Need Help & Documentation
+## ❓ Need Help & Documentation
 
 - Stack Overflow
 - Mozilla Developer Network
 
-## Slack Bots
+## 🤖 Slack Bots
 
 - Statsbot
 - Mailchimp
 
-## Other
+## 🤡 Other
 
 - Reset CSS
 - Excuses For Lazy Coders
