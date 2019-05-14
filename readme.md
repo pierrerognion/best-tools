@@ -78,6 +78,11 @@
 ## Coding Problems
 
 - Daily Coding Problem - https://dailycodingproblem.com/
+- Code Wars - https://codewars.com/ 
+
+## Error Tracking 
+
+- Sentry - https://sentry.io/welcome/
 
 ## 🤓 Dev Blogs
 
