@@ -183,6 +183,13 @@
 ## Sketch Extensions
 
 - Craft - https://www.invisionapp.com/craft
+- Sketch Material
+- Angle
+- Map Generator
+- Symbol Organizer
+- Sketch Isometric
+- Paddy
+- Unsplash
 
 ## 📩 Email
 
