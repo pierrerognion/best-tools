@@ -199,6 +199,13 @@
 - Statsbot
 - Mailchimp
 
+## ⚡️ Automation
+
+- Zapier
+- IFTTT
+- Parabola
+- Integromat
+
 ## 🤡 Other
 
 - Reset CSS
