@@ -150,13 +150,14 @@
 
 - Color Hunt - https://colorhunt.co/
 
-## 🖌 Prototyping
+## 🖌 Prototyping and design-dev collaboration tools
 
 - Sketch
 - Figma
 - Invision
 - Marvel
 - Framer
+- Zeplin
 
 ## 📩 Email
 
@@ -303,3 +304,4 @@
 ## Other Curated Lists
 
 - Awesome Ruby - https://github.com/markets/awesome-ruby
+- Neede Design Resources - https://neede.co/#/
