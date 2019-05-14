@@ -32,6 +32,7 @@
 
 - Postman
 - Apigee - https://cloud.google.com/apigee-api-management/
+- Swagger - https://swagger.io/
 
 ## 📂 CMS
 
@@ -39,16 +40,17 @@
 - Netlify CMS
 - Strapi
 
-## Cloud Database
+## Databases
 
 - MongoDB - https://www.mongodb.com/
 - Firebase
+- Postgres - https://postgresapp.com/
 
 ## 🚀 Deploy
 
 - AWS
 - Netlify
-- Heroku
+- Heroku - https://heroku.com/
 - Now
 - Surge.sh
 
@@ -56,6 +58,9 @@
 
 - Docker
 - Kubernetes
+
+## Other Dev Tools
+- Expo.io - https://expo.io/ Build, deploy, and iterate on React Native apps.
 
 ## 📚 Courses
 
@@ -69,6 +74,9 @@
 - Udemy
 - Pluralsight
 - Glitch - https://glitch.com/
+- Google CodeLabs - https://codelabs.developers.google.com/
+- Hackr.io - https://hackr.io/ Directory of courses and tutorials
+- Github Learning Lab - https://lab.github.com/courses
 
 ## Search engine tech
 
@@ -90,8 +98,9 @@
 
 ## 🗺 APIs
 
+- Programmable Web - https://www.programmableweb.com/ API Directory
 - Mapbox
-- Google API
+- Google Cloud Platform - https://console.cloud.google.com/
 
 ## 📸 Images
 
@@ -304,7 +313,7 @@
 
 ## Single Sign-On
 
-- OKTA
+- OKTA - https://developer.okta.com/
 - Auth0
 
 ## Youtube Channels - UI
@@ -323,6 +332,11 @@
 - JSON Viewer
 - Momentum
 - Whatruns
+
+## Link shortener
+
+- Rebrandly - https://app.rebrandly.com/links
+- Bit.ly
 
 ## Relocation & Remote Work Resources
 
@@ -366,6 +380,9 @@
 - Google Trends - https://trends.google.com/trends
 - Google Finance - https://www.google.com/finance
 - Calendly - https://calendly.com/
+- Can I Use - https://caniuse.com/
+- Learn Enough Command Line to Be Dangerous - https://www.learnenough.com/command-line-tutorial/basics
+- RubyGems - https://rubygems.org/
 
 ## Other Curated Lists
 
