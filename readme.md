@@ -105,6 +105,7 @@
 - Dribbble
 - Behance
 - Pages.xyz
+- Bootstrap Expo - https://expo.getbootstrap.com/
 
 ## 🖼 UI Components Management
 - Storybook
@@ -206,9 +207,17 @@
 - Parabola
 - Integromat
 
+## Youtube Channels - UI
+
+- Caler Edwards https://www.youtube.com/channel/UCfzOLBT7jyHFcaTgwmnttog
+
 ## 🤡 Other
 
 - Reset CSS
 - Excuses For Lazy Coders
 - Scotch.io
 - Datadog
+- https://cash.app/bitcoin
+- HTML Characters Reference - https://dev.w3.org/html5/html-author/charref
+- List of CSS properties - https://webplatform.github.io/docs/css/
+- Bootstrap - https://getbootstrap.com/
