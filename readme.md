@@ -126,7 +126,7 @@
 
 ## 🎨 Color palette
 
-- Color Hunt
+- Color Hunt - https://colorhunt.co/
 
 ## 🖌 Prototyping
 
@@ -248,3 +248,6 @@
 - When to use which UX Research Method - https://www.nngroup.com/articles/which-ux-research-methods/
 - User Centered Design Canvas - https://ucdc.therectangles.com/#what
 - Canva - https://www.canva.com/
+- Sentry
+- The Sweet Setup - https://thesweetsetup.com/
+- Jupyter - https://jupyter.org/
