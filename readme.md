@@ -12,11 +12,21 @@
 - Sublime Text
 - Atom
 
+## IDE
+
+- XCode
+
+## Online Code Editors
+
+- Codepen
+- JSBin
+- Code Sandbox
+
 ## Git-related
 
 - Github Desktop
 
-## API Testing
+## API Documentation & Testing
 
 - Postman
 
@@ -169,8 +179,9 @@
 - Techcrunch
 - Re/Code
 - The Next Web
+- CSS Tricks
 
-## Screencast/GIF
+## Screencast & GIF
 - Loom
 - Snagit
 
@@ -187,3 +198,5 @@
 ## Other
 
 - Reset CSS
+- Excuses For Lazy Coders
+- Scotch.io
