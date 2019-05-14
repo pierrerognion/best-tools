@@ -177,12 +177,12 @@
 
 - Mailchimp
 
-## 📊 CRM
+## 📊 CRM & Marketing Automation
 
 - Salesforce
 - Intercom
-- Hubspot
-- Pipedrive
+- Hubspot - https://www.hubspot.fr/
+- Pipedrive - https://www.pipedrive.com/
 
 ## Livechat
 
@@ -194,11 +194,14 @@
 
 - Clearbit
 
-## 📈 Analytics
+## 📈 Web and Product Analytics
 
 - Google Analytics
 - Google Data Studio
 - Lookback - https://lookback.io/
+- Mixpanel - https://mixpanel.com/
+- Amplitude - https://amplitude.com/
+- Kissmetrics - https://www.kissmetricshq.com/
 
 ## 🗣 Social
 
@@ -261,13 +264,13 @@
 - DEV.to - https://dev.to/
 
 ## 🤳 Screencast & GIF
-- Loom
-- Snagit
+- Loom - https://www.loom.com/
+- Snagit - https://www.techsmith.com/screen-capture.html
 
 ## ❓ Need Help & Documentation
 
-- Stack Overflow
-- Mozilla Developer Network
+- Stack Overflow - https://stackoverflow.com/
+- Mozilla Developer Network - https://developer.mozilla.org/
 
 ## 🤖 Slack Bots
 
@@ -303,10 +306,11 @@
 - Momentum
 - Whatruns
 
-## Remote Work Resources
+## Relocation & Remote Work Resources
 
 - NomadList - https://nomadlist.com/
 - Remote OK - https://remoteok.io/
+- Relocate.me - https://relocate.me/
 
 ## 🤡 Other
 
@@ -340,7 +344,11 @@
 - Namecheap
 - Email Regex - http://emailregex.com/
 - Mega Proxy - https://www.megaproxy.com/freesurf/
-- TempMail - https://temp-mail.org/fr/ - Disposable email address
+- TempMail - https://temp-mail.org/fr/ Disposable email address
+- Strikingly - https://www.strikingly.com/ Instant Website Builder
+- Google Trends - https://trends.google.com/trends
+- Google Finance - https://www.google.com/finance
+- Calendly - https://calendly.com/
 
 ## Other Curated Lists
 
