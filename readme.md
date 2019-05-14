@@ -336,10 +336,22 @@
 - Stack Overflow - https://stackoverflow.com/
 - Mozilla Developer Network - https://developer.mozilla.org/
 
-## 🤖 Slack Bots
+## 🤖 Slack Apps & Bots
 
-- Statsbot
-- Mailchimp
+- Statsbot - Insights from various databases (including Google Analytics)
+- Mailchimp - Online email marketing and contact management
+- Donut - Onboarding bot
+- Heytaco - Build stronger happier teams
+- Github
+- Arc - Google Analytics summarized
+- Simple Poll - Create native polls in Slack
+- Zoom
+- Appear.in
+- Google Calendar
+- Twitter
+- Asana
+- Google+ Hangout
+- RSS
 
 ## ⚡️ Automation
 
