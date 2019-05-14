@@ -77,6 +77,7 @@
 - Google CodeLabs - https://codelabs.developers.google.com/
 - Hackr.io - https://hackr.io/ Directory of courses and tutorials
 - Github Learning Lab - https://lab.github.com/courses
+- Coursera
 
 ## Search engine tech
 
@@ -180,14 +181,17 @@
 
 ## 🖌 Prototyping and design-dev collaboration tools
 
-- Sketch
+- Sketch - https://www.sketch.com/
 - Figma - https://www.figma.com/
 - Invision - https://www.invisionapp.com/
 - Invision Studio - https://www.invisionapp.com/studio
 - Marvel - https://marvelapp.com/
-- Framer
-- Zeplin
-- Adobe XD
+- Framer - https://www.framer.com/
+- Zeplin - https://zeplin.io/
+- Adobe XD - https://www.adobe.com/products/xd.html
+- Proto.io - https://proto.io/
+- Balsamiq - https://balsamiq.com/
+- 
 
 ## Sketch Extensions
 
@@ -264,6 +268,7 @@
 
 - Docusaurus - https://docusaurus.io/
 - Notion - https://www.notion.so/
+- Confluence - https://www.atlassian.com/software/confluence
 
 ## Cartoon animations
 
@@ -274,12 +279,18 @@
 
 - Notion - https://www.notion.so/
 - Airtable - https://airtable.com/
+- Basecamp - https://basecamp.com/
 
 ## 📕 Project Management
 
 - Trello
 - Asana
 - JIRA
+- Basecamp - https://basecamp.com/
+
+## Product Management 
+
+- Productboard https://www.productboard.com/
 
 ## 🧪 Magic Boards
 
@@ -294,6 +305,15 @@
 ## 🔐 Security
 
 - 1Password
+
+## Roadmaps
+
+- Productboard https://www.productboard.com/
+- Roadmunk - https://roadmunk.com/
+- Monday - https://monday.com/
+- Aha - https://www.aha.io/
+- Asana - https://asana.com/
+- Product Plan - https://www.productplan.com/
 
 ## 🗞 Tech News
 
@@ -350,6 +370,12 @@
 - Momentum
 - Whatruns
 
+## Social Media Campaigns
+
+- Sprinklr
+- Hootsuite
+- Buffer
+
 ## Link shortener
 
 - Rebrandly - https://app.rebrandly.com/links
@@ -400,6 +426,10 @@
 - Can I Use - https://caniuse.com/
 - Learn Enough Command Line to Be Dangerous - https://www.learnenough.com/command-line-tutorial/basics
 - RubyGems - https://rubygems.org/
+- Coda.io - https://coda.io/ Smart spreadsheets
+- Pablo
+- Draw.io - https://www.draw.io/ Diagrams and flowcharts maker
+- Twilio - https://www.twilio.com/ Communication APIs for SMS, Voice, Video, and Authentication
 
 ## Other Curated Lists
 
