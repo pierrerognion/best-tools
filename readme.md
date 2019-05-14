@@ -84,11 +84,11 @@
 - Nucleo
 - Flaticon
 - Icon Store
-- The Noun Project
+- The Noun Project - https://thenounproject.com/
 
 ## 🖋 Fonts
 
-- Google Fonts
+- Google Fonts - https://fonts.google.com/
 
 ## 😉 Illustrations
 
@@ -96,8 +96,15 @@
 
 ## Sketch Resources
 
-- Sketch App Sources
-- Sketch Repo
+- Sketch App Sources - https://www.sketchappsources.com/
+- Sketch Repo - https://sketchrepo.com/
+- Freebit Supply - https://freebiesupply.com/
+
+## Mockups 
+
+- Sketch Sheets Templates - https://sketchsheets.com/
+- https://sneakpeekit.com/
+- Mockup World - https://www.mockupworld.co/
 
 ## 👍 Design Inspiration
 
@@ -107,7 +114,13 @@
 - Pages.xyz
 - Bootstrap Expo - https://expo.getbootstrap.com/
 
+## UI Patterns
+
+- UI Patterns - http://ui-patterns.com/
+- UI Garage - https://uigarage.net/
+
 ## 🖼 UI Components Management
+
 - Storybook
 - Bit.dev
 
@@ -133,10 +146,15 @@
 - Hubspot
 - Pipedrive
 
+## Data Enrichment
+
+- Clearbit
+
 ## 📈 Analytics
 
 - Google Analytics
 - Google Data Studio
+- Lookback - https://lookback.io/
 
 ## 🗣 Social
 
@@ -207,6 +225,11 @@
 - Parabola
 - Integromat
 
+## Single Sign-On
+
+- OKTA
+- Auth0
+
 ## Youtube Channels - UI
 
 - Caler Edwards https://www.youtube.com/channel/UCfzOLBT7jyHFcaTgwmnttog
@@ -221,3 +244,7 @@
 - HTML Characters Reference - https://dev.w3.org/html5/html-author/charref
 - List of CSS properties - https://webplatform.github.io/docs/css/
 - Bootstrap - https://getbootstrap.com/
+- CSS Animations - https://daneden.github.io/animate.css/
+- When to use which UX Research Method - https://www.nngroup.com/articles/which-ux-research-methods/
+- User Centered Design Canvas - https://ucdc.therectangles.com/#what
+- Canva - https://www.canva.com/
