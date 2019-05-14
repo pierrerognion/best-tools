@@ -213,13 +213,16 @@
 
 ## Livechat
 
-- Intercom
+- Intercom - https://www.intercom.com/
 - Live Chat
 - Drift
 
-## Data Enrichment
+## Leads & Data Enrichment
 
-- Clearbit
+- Clearbit - https://clearbit.com/
+- Lusha - https://www.lusha.co/
+- Hunter.io - https://hunter.io/
+- LinkedIn Sales Navigator - https://business.linkedin.com/fr-fr/sales-solutions/sales-navigator
 
 ## Client Support
 
@@ -231,14 +234,16 @@
 - Google Forms - https://www.google.com/intl/en/forms/about/
 - Airtable - https://airtable.com/
 
-## 📈 Web and Product Analytics
+## 📈 Web and Product Analytics/Customer Data Infrastructure
 
 - Google Analytics
 - Google Data Studio
+- Segment - https://segment.com/
 - Lookback - https://lookback.io/
-- Mixpanel - https://mixpanel.com/
 - Amplitude - https://amplitude.com/
 - Kissmetrics - https://www.kissmetricshq.com/
+- Mixpanel - https://mixpanel.com/
+- Optimizely - https://www.optimizely.com/
 
 ## 🗣 Social
 
