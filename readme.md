@@ -221,6 +221,16 @@
 
 - Clearbit
 
+## Client Support
+
+- Zendesk - https://www.zendesk.com/
+
+## Forms
+
+- Typeform - https://www.typeform.com/
+- Google Forms - https://www.google.com/intl/en/forms/about/
+- Airtable - https://airtable.com/
+
 ## 📈 Web and Product Analytics
 
 - Google Analytics
@@ -237,16 +247,18 @@
 - Twitter
 - Reddit
 
-## Visio
+## Video Meetings
 
-- Zoom
-- Appear.in
+- Zoom.us - https://zoom.us/
+- Google Hangout - https://hangouts.google.com/
+- Appear.in - https://appear.in/
+- Skype
 - WebEx
 
 ## 🔎 Internal wiki
 
-- Docusarus
-- Notion
+- Docusaurus - https://docusaurus.io/
+- Notion - https://www.notion.so/
 
 ## Cartoon animations
 
@@ -255,8 +267,8 @@
 
 ## 😎 One-for-all apps
 
-- Notion
-- Airtable
+- Notion - https://www.notion.so/
+- Airtable - https://airtable.com/
 
 ## 📕 Project Management
 
