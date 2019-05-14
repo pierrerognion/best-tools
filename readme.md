@@ -348,6 +348,12 @@
 - Parabola
 - Integromat
 
+## Online Signature
+
+- HelloSign - https://www.hellosign.com/
+- Pandadoc - https://www.pandadoc.com/
+- Docusign - https://www.docusign.com/
+
 ## Single Sign-On
 
 - OKTA - https://developer.okta.com/
@@ -430,6 +436,7 @@
 - Pablo
 - Draw.io - https://www.draw.io/ Diagrams and flowcharts maker
 - Twilio - https://www.twilio.com/ Communication APIs for SMS, Voice, Video, and Authentication
+- Tableau - https://www.tableau.com/
 
 ## Other Curated Lists
 
