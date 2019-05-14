@@ -20,7 +20,7 @@
 
 - Codepen
 - JSBin
-- Code Sandbox
+- Code Sandbox - https://codesandbox.io/
 
 ## 🐱 Git-related
 
@@ -60,6 +60,7 @@
 ## 📚 Courses
 
 - CodeCademy
+- freeCodeCamp - https://www.freecodecamp.org/
 - Treehouse
 - Lynda
 - OpenClassrooms
@@ -87,6 +88,7 @@
 - Unsplash
 - Pexels
 - The Stocks 2
+- StockSnap.io - https://stocksnap.io/
 
 ## 🔥 Icons
 
@@ -103,7 +105,7 @@
 
 ## 😉 Illustrations
 
-- Undraw
+- Undraw - https://undraw.co/
 - DrawKit - https://www.drawkit.io
 
 ## Sketch Resources
@@ -111,6 +113,7 @@
 - Sketch App Sources - https://www.sketchappsources.com/
 - Sketch Repo - https://sketchrepo.com/
 - Freebit Supply - https://freebiesupply.com/
+- Bottts - https://bottts.com/ Bots for Sketch
 
 ## UI Kits 
 
@@ -125,7 +128,7 @@
 
 ## 👍 Design Inspiration
 
-- Muzli
+- Muzli - https://medium.muz.li/
 - Dribbble
 - Behance
 - Pages.xyz
@@ -135,6 +138,7 @@
 
 - Apple Human Interface Guidelines - https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/
 - IBM Design Language - https://www.ibm.com/design/language/
+- Google Material Design - https://material.io/
 
 ## UI Patterns
 
@@ -148,12 +152,13 @@
 
 ## 🎨 Color palette
 
+- Coolors - https://coolors.co/
 - Color Hunt - https://colorhunt.co/
 
 ## 🖌 Prototyping and design-dev collaboration tools
 
 - Sketch
-- Figma
+- Figma - https://www.figma.com/
 - Invision
 - Marvel
 - Framer
@@ -166,8 +171,15 @@
 ## 📊 CRM
 
 - Salesforce
+- Intercom
 - Hubspot
 - Pipedrive
+
+## Livechat
+
+- Intercom
+- Live Chat
+- Drift
 
 ## Data Enrichment
 
@@ -186,10 +198,21 @@
 - Twitter
 - Reddit
 
+## Visio
+
+- Zoom
+- Appear.in
+- WebEx
+
 ## 🔎 Internal wiki
 
 - Docusarus
 - Notion
+
+## Cartoon animations
+
+- Vyond
+- Powtoon - https://www.powtoon.com/home/
 
 ## 😎 One-for-all apps
 
@@ -300,6 +323,11 @@
 - HTML Reference - https://htmlreference.io/ All HTML elements and attributes
 - CSS Reference - https://cssreference.io/ The most popular CSS properties
 - Snazzy Maps - https://snazzymaps.com/
+- Light Widget - https://lightwidget.com/ Responsive Instagram widgets
+- Emojipedia - https://emojipedia.org/
+- Design resources - https://trydesignlab.com/resources/
+- http://andrealikes.to/
+- UI Names - https://uinames.com/ Fake UI names generator
 
 ## Other Curated Lists
 
