@@ -28,9 +28,10 @@
 - Gitlab
 - Bitbucket
 
-## 🔗 API Documentation & Testing
+## 🔗 API Management, Documentation, and Testing
 
 - Postman
+- Apigee - https://cloud.google.com/apigee-api-management/
 
 ## 📂 CMS
 
@@ -129,6 +130,11 @@
 - Behance
 - Pages.xyz
 - Bootstrap Expo - https://expo.getbootstrap.com/
+
+## Design Guidelines
+
+- Apple Human Interface Guidelines - https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/
+- IBM Design Language - https://www.ibm.com/design/language/
 
 ## UI Patterns
 
@@ -290,3 +296,10 @@
 - Fraola - https://www.froala.com/wysiwyg-editor
 - Checklist Design - https://www.checklist.design/
 - Bulma - https://bulma.io/documentation/components/
+- HTML Reference - https://htmlreference.io/ All HTML elements and attributes
+- CSS Reference - https://cssreference.io/ The most popular CSS properties
+- Snazzy Maps - https://snazzymaps.com/
+
+## Other Curated Lists
+
+- Awesome Ruby - https://github.com/markets/awesome-ruby
