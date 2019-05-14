@@ -38,6 +38,11 @@
 - Netlify CMS
 - Strapi
 
+## Cloud Database
+
+- MongoDB - https://www.mongodb.com/
+- Firebase
+
 ## 🚀 Deploy
 
 - AWS
@@ -97,6 +102,7 @@
 ## 😉 Illustrations
 
 - Undraw
+- DrawKit - https://www.drawkit.io
 
 ## Sketch Resources
 
@@ -113,6 +119,7 @@
 - Sketch Sheets Templates - https://sketchsheets.com/
 - Sneakpeekit - https://sneakpeekit.com/
 - Mockup World - https://www.mockupworld.co/
+- Clean Mock https://cleanmock.com/
 
 ## 👍 Design Inspiration
 
@@ -276,3 +283,4 @@
 - Web.dev - https://web.dev/measure
 - Fraola - https://www.froala.com/wysiwyg-editor
 - Checklist Design - https://www.checklist.design/
+- Bulma - https://bulma.io/documentation/components/
