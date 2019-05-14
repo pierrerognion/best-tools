@@ -400,3 +400,5 @@
 
 - Awesome Ruby - https://github.com/markets/awesome-ruby
 - Neede Design Resources - https://neede.co/#/
+
+... and my website https://pierrerognion.com/
