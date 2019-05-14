@@ -53,10 +53,16 @@
 ## Images
 
 - Unsplash
+- Pexels
+- The Stocks 2
 
 ## Icons
 
 - Font Awesome
+- Orion
+- Nucleo
+- Flaticon
+- Icon Store
 
 ## Fonts
 
@@ -65,6 +71,17 @@
 ## Illustrations
 
 - Undraw
+
+## Design Inspiration
+
+- Muzli
+- Dribbble
+- Behance
+- Pages.xyz
+
+## UI Components Management
+- Storybook
+- Bit.dev
 
 ## Prototyping
 
@@ -94,6 +111,11 @@
 - Twitter
 - Reddit
 
+## Internal wiki
+
+- Docusarus
+- Notion
+
 ## One-for-all apps
 
 - Notion
@@ -118,11 +140,15 @@
 
 - 1Password
 
-## News
+## Tech News
 
 - Medium
 - Hacker News
 - Product Hunt
+- The Verge
+- Techcrunch
+- Re/Code
+- The Next Web
 
 ## Need Help & Documentation
 
