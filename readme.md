@@ -89,6 +89,14 @@
 - Daily Coding Problem - https://dailycodingproblem.com/
 - Code Wars - https://codewars.com/ 
 
+## Learn How to Code on the Go
+
+- CodeCademy Go
+- Grasshopper
+- MIMO
+- Py
+- OpenClassrooms
+
 ## Error Tracking 
 
 - Sentry - https://sentry.io/welcome/
@@ -192,6 +200,8 @@
 - Proto.io - https://proto.io/
 - Balsamiq - https://balsamiq.com/
 - Axure - https://www.axure.com/
+- Flinto - https://www.flinto.com/
+- Principle - https://principleformac.com/
 
 ## Sketch Extensions
 
@@ -206,20 +216,23 @@
 
 ## 📩 Email
 
-- Mailchimp
+- Mailchimp - https://mailchimp.com/
+- Mailjet - https://www.mailjet.com/
+- Front - https://frontapp.com/ Shared inbox for teams
+- Email Regex - http://emailregex.com/
 
 ## 📊 CRM & Marketing Automation
 
-- Salesforce
-- Intercom
-- Hubspot - https://www.hubspot.fr/
+- Salesforce - https://www.salesforce.com/
+- Intercom - https://www.intercom.com/
+- Hubspot - https://www.hubspot.com
 - Pipedrive - https://www.pipedrive.com/
 
 ## Livechat
 
 - Intercom - https://www.intercom.com/
-- Live Chat
-- Drift
+- Live Chat - https://www.zendesk.com/chat/ Conversational marketing tool from Zendesk.
+- Drift - https://www.drift.com/ Conversational marketing platform.
 
 ## Leads & Data Enrichment
 
@@ -434,7 +447,6 @@
 - http://andrealikes.to/
 - UI Names - https://uinames.com/ Fake UI names generator
 - Namecheap
-- Email Regex - http://emailregex.com/
 - Mega Proxy - https://www.megaproxy.com/freesurf/
 - TempMail - https://temp-mail.org/fr/ Disposable email address
 - Strikingly - https://www.strikingly.com/ Instant Website Builder
