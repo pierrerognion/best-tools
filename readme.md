@@ -462,6 +462,7 @@
 - Twilio - https://www.twilio.com/ Communication APIs for SMS, Voice, Video, and Authentication
 - Tableau - https://www.tableau.com/
 - CloudApp - https://www.getcloudapp.com/
+- Upmostly - https://upmostly.com/tutorials/ React Tutorials
 
 ## Other Curated Lists
 
