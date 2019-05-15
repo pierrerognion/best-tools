@@ -454,5 +454,9 @@
 
 - Awesome Ruby - https://github.com/markets/awesome-ruby
 - Neede Design Resources - https://neede.co/#/
+- Awesome Design Tools - https://github.com/LisaDziuba/Awesome-Design-Tools
+- Awesome Hacking - https://github.com/carpedm20/awesome-hacking
+- Awesome React Native - https://github.com/jondot/awesome-react-native
+- The Book of Secret Knowledge - https://github.com/trimstray/the-book-of-secret-knowledge
 
 ... and my website https://pierrerognion.com/
