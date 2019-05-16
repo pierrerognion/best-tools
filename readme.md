@@ -471,5 +471,6 @@
 - Awesome Hacking - https://github.com/carpedm20/awesome-hacking
 - Awesome React Native - https://github.com/jondot/awesome-react-native
 - The Book of Secret Knowledge - https://github.com/trimstray/the-book-of-secret-knowledge
+- Spark Joy - https://github.com/sw-yx/spark-joy Various design resources to spark joy in your apps and websites
 
 ... and my website https://pierrerognion.com/
