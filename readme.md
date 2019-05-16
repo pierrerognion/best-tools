@@ -2,48 +2,47 @@
 
 ## 🖥 Command Line
 
-- iTerm
-- Hyper
-- Terminal - MacOS's default terminal.
+- iTerm2 - https://www.iterm2.com/
+- Hyper - https://hyper.is/
 
 ## 🛠 Source-Code Editors
 
-- Visual Studio Code
-- Sublime Text
-- Atom
+- Visual Studio Code - https://code.visualstudio.com/download
+- Sublime Text - https://www.sublimetext.com/
+- Atom - https://atom.io/
 
 ## 🔧 IDE
 
-- XCode
+- XCode - https://developer.apple.com/xcode/
 
 ## ⛓ Online Code Editors
 
-- Codepen
-- JSBin
+- Codepen - https://codepen.io/
+- JSBin - https://jsbin.com/
 - Code Sandbox - https://codesandbox.io/
 
 ## 🐱 Git-related
 
-- Github
-- Gitlab
-- Bitbucket
+- Github - https://github.com/
+- Gitlab - https://gitlab.com/
+- Bitbucket - https://bitbucket.org/
 
 ## 🔗 API Management, Documentation, and Testing
 
-- Postman
+- Postman - https://www.getpostman.com/
 - Apigee - https://cloud.google.com/apigee-api-management/
 - Swagger - https://swagger.io/
 
 ## 📂 CMS
 
-- Contentful
-- Netlify CMS
-- Strapi
+- Contentful - https://www.contentful.com/
+- Netlify CMS - https://www.netlifycms.org/
+- Strapi - https://strapi.io/
 
 ## Databases
 
 - MongoDB - https://www.mongodb.com/
-- Firebase
+- Firebase - https://firebase.google.com/
 - Postgres - https://postgresapp.com/
 
 ## 🚀 Deploy
