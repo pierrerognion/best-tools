@@ -125,6 +125,7 @@
 - Flaticon
 - Icon Store
 - The Noun Project - https://thenounproject.com/
+- Iconmonstr - https://iconmonstr.com/
 
 ## 🖋 Fonts
 
