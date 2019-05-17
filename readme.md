@@ -379,7 +379,7 @@
 - Pandadoc - https://www.pandadoc.com/
 - Docusign - https://www.docusign.com/
 
-## Single Sign-On
+## Authentication & Single Sign-On
 
 - OKTA - https://developer.okta.com/
 - Auth0
