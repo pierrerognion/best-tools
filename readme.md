@@ -138,11 +138,18 @@
 - Undraw - https://undraw.co/
 - DrawKit - https://www.drawkit.io
 
+## Figma Resources
+- Figma Freebies - https://www.figmafreebies.com/
+- Figma Finder - https://www.figmafinder.com/
+- Freebie Supply (Figma) - https://freebiesupply.com/free-figma/
+- Figma Resources - https://www.figmaresources.com/
+- Figma Crush - https://www.figmacrush.com/
+
 ## Sketch Resources
 
 - Sketch App Sources - https://www.sketchappsources.com/
 - Sketch Repo - https://sketchrepo.com/
-- Freebit Supply - https://freebiesupply.com/
+- Freebie Supply - https://freebiesupply.com/
 - Bottts - https://bottts.com/ Bots for Sketch
 
 ## UI Kits 
