@@ -126,6 +126,8 @@
 - Icon Store
 - The Noun Project - https://thenounproject.com/
 - Iconmonstr - https://iconmonstr.com/
+- IonIcons - https://ionicons.com/
+- Octicons - https://octicons.github.com/
 
 ## 🖋 Fonts
 
@@ -189,8 +191,8 @@
 
 ## 🖌 Wireframing, Prototyping and Design-Dev Collaboration Tools
 
-- Sketch - https://www.sketch.com/
 - Figma - https://www.figma.com/
+- Sketch - https://www.sketch.com/
 - Invision - https://www.invisionapp.com/
 - Invision Studio - https://www.invisionapp.com/studio
 - Marvel - https://marvelapp.com/
@@ -463,6 +465,8 @@
 - Tableau - https://www.tableau.com/
 - CloudApp - https://www.getcloudapp.com/
 - Upmostly - https://upmostly.com/tutorials/ React Tutorials
+- Get Sandbox - https://getsandbox.com/
+- JSON Generator - https://www.json-generator.com/ Tool for generating random JSON data
 
 ## Other Curated Lists
 
