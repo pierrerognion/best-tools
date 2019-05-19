@@ -47,23 +47,23 @@
 
 ## 🚀 Deploy
 
-- AWS
-- Netlify
+- AWS - https://aws.amazon.com/
+- Netlify - https://www.netlify.com/
 - Heroku - https://heroku.com/
-- Now
-- Surge.sh
+- Now - https://zeit.co/now
+- Surge.sh - https://surge.sh/
 
 ## 📦 Container Management
 
-- Docker
-- Kubernetes
+- Docker - https://www.docker.com/
+- Kubernetes - https://kubernetes.io/
 
 ## Other Dev Tools
 - Expo.io - https://expo.io/ Build, deploy, and iterate on React Native apps.
 
 ## 📚 Courses
 
-- CodeCademy
+- CodeCademy - https://www.codecademy.com/
 - freeCodeCamp - https://www.freecodecamp.org/
 - Treehouse
 - Lynda
