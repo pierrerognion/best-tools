@@ -412,6 +412,7 @@
 - JSON Viewer
 - Momentum
 - Whatruns
+- Wappalyzer
 
 ## Social Media Campaigns
 
@@ -477,6 +478,7 @@
 - Upmostly - https://upmostly.com/tutorials/ React Tutorials
 - Get Sandbox - https://getsandbox.com/
 - JSON Generator - https://www.json-generator.com/ Tool for generating random JSON data
+- Carrd - https://carrd.co/ Simple, free, fully responsive one-page sites.
 
 ## Other Curated Lists
 
