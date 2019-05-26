@@ -60,17 +60,17 @@
 
 ## Other Dev Tools
 - Expo.io - https://expo.io/ Build, deploy, and iterate on React Native apps.
-- Express
+- Express - https://expressjs.com/
 - Mocha - https://mochajs.org/
 
 ## 📚 Courses
 
 - CodeCademy - https://www.codecademy.com/
 - freeCodeCamp - https://www.freecodecamp.org/
-- Treehouse
-- Lynda
-- OpenClassrooms
-- Flexbox Froggy
+- Treehouse - https://teamtreehouse.com/
+- Lynda - https://www.lynda.com/
+- OpenClassrooms - https://openclassrooms.com/
+- Flexbox Froggy - https://flexboxfroggy.com/#fr
 - Salesforce Trailhead
 - Udemy
 - Pluralsight
