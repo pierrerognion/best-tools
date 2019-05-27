@@ -359,7 +359,7 @@
 - Stack Overflow - https://stackoverflow.com/
 - Mozilla Developer Network - https://developer.mozilla.org/
 
-## 🤖 Slack Apps & Bots
+## 🤖 Slack related
 
 - Statsbot - Insights from various databases (including Google Analytics)
 - Mailchimp - Online email marketing and contact management
@@ -375,6 +375,7 @@
 - Asana
 - Google+ Hangout
 - RSS
+- Slofile - https://slofile.com/ Discover Slack Communities
 
 ## ⚡️ Automation
 
