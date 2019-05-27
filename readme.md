@@ -478,6 +478,7 @@
 - JSON Generator - https://www.json-generator.com/ Tool for generating random JSON data
 - Carrd - https://carrd.co/ Simple, free, fully responsive one-page sites.
 - Blobmaker - https://www.blobmaker.app/ The easiest way to create SVG blobs.
+- Postmark - https://postmarkapp.com/
 
 ## Other Curated Lists
 
