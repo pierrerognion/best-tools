@@ -71,20 +71,20 @@
 - Lynda - https://www.lynda.com/
 - OpenClassrooms - https://openclassrooms.com/
 - Flexbox Froggy - https://flexboxfroggy.com/#fr
-- Salesforce Trailhead
-- Udemy
-- Pluralsight
+- Salesforce Trailhead - https://trailhead.salesforce.com/
+- Udemy - https://www.udemy.com/
+- Pluralsight - https://www.pluralsight.com/
 - Glitch - https://glitch.com/
 - Google CodeLabs - https://codelabs.developers.google.com/
 - Hackr.io - https://hackr.io/ Directory of courses and tutorials
 - Github Learning Lab - https://lab.github.com/courses
-- Coursera
+- Coursera - coursera.org
 - DesignCode - https://designcode.io/
 
 ## Search engine tech
 
 - Algolia - https://www.algolia.com/
-- ElasticSearch
+- ElasticSearch - https://www.elastic.co/
 
 ## Coding Problems
 
@@ -93,11 +93,11 @@
 
 ## Learn How to Code on the Go
 
-- CodeCademy Go
-- Grasshopper
-- MIMO
-- Py
-- OpenClassrooms
+- CodeCademy Go - https://news.codecademy.com/codecademy-go-faq/
+- Grasshopper - https://grasshopper.codes/
+- MIMO - https://getmimo.com/
+- Py - https://www.getpy.com/mobile
+- OpenClassrooms - https://openclassrooms.com/
 
 ## Error Tracking 
 
@@ -105,28 +105,28 @@
 
 ## 🤓 Dev Blogs
 
-- Overreacted.io
+- Overreacted.io - https://overreacted.io/
 
 ## 🗺 APIs
 
 - Programmable Web - https://www.programmableweb.com/ API Directory
-- Mapbox
+- Mapbox - https://www.mapbox.com/
 - Google Cloud Platform - https://console.cloud.google.com/
 
 ## 📸 Images
 
 - Unsplash - https://unsplash.com
-- Pexels
-- The Stocks 2
+- Pexels - https://www.pexels.com/
+- The Stocks 2 - http://thestocks.im/
 - StockSnap.io - https://stocksnap.io/
 
 ## 🔥 Icons
 
-- Font Awesome
-- Orion
-- Nucleo
-- Flaticon
-- Icon Store
+- Font Awesome - https://fontawesome.com/
+- Orion - https://orioniconlibrary.com/ Icon library
+- Nucleo - https://nucleoapp.com/ Icon Organizer & icon library
+- Flaticon - https://www.flaticon.com/
+- Icon Store - https://iconstore.co/
 - The Noun Project - https://thenounproject.com/
 - Iconmonstr - https://iconmonstr.com/
 - IonIcons - https://ionicons.com/
