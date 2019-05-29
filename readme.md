@@ -480,6 +480,7 @@
 - Carrd - https://carrd.co/ Simple, free, fully responsive one-page sites.
 - Blobmaker - https://www.blobmaker.app/ The easiest way to create SVG blobs.
 - Postmark - https://postmarkapp.com/
+- Docz - https://www.docz.site/ Documentation generator for projects, design systems, etc.
 
 ## Other Curated Lists
 
