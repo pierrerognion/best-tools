@@ -350,6 +350,7 @@
 - The Next Web
 - CSS Tricks
 - DEV.to - https://dev.to/
+- freeCodeCamp - https://www.freecodecamp.org/news/
 
 ## 🤳 Screencast & GIF
 - Loom - https://www.loom.com/
