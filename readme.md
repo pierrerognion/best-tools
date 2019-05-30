@@ -416,6 +416,10 @@
 - Whatruns
 - Wappalyzer
 
+## Business Intelligence tools
+- Tableau - https://www.tableau.com/
+- Looker - https://looker.com/
+
 ## Social Media Campaigns
 
 - Sprinklr
