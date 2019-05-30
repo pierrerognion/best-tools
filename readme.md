@@ -483,6 +483,9 @@
 - Blobmaker - https://www.blobmaker.app/ The easiest way to create SVG blobs.
 - Postmark - https://postmarkapp.com/
 - Docz - https://www.docz.site/ Documentation generator for projects, design systems, etc.
+- Twilio
+- SendGrid - https://sendgrid.com/ Email delivery service: notifications, promotional, password reset, etc.
+- Squatch - https://www.referralsaasquatch.com/ Run referral programs
 
 ## Other Curated Lists
 
