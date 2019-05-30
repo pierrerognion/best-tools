@@ -271,6 +271,7 @@
 - Kissmetrics - https://www.kissmetricshq.com/
 - Mixpanel - https://mixpanel.com/
 - Optimizely - https://www.optimizely.com/
+- Hotjar - https://www.hotjar.com/
 
 ## 🗣 Social
 
