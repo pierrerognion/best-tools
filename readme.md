@@ -167,6 +167,7 @@
 ## 👍 Design Inspiration
 
 - Muzli - https://medium.muz.li/
+- Muzli Search - https://search.muz.li/
 - Dribbble
 - Behance
 - Pages.xyz
