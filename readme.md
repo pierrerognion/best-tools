@@ -491,6 +491,7 @@
 - Twilio
 - SendGrid - https://sendgrid.com/ Email delivery service: notifications, promotional, password reset, etc.
 - Squatch - https://www.referralsaasquatch.com/ Run referral programs
+- Jupyter - https://jupyter.org/
 
 ## Other Curated Lists
 
