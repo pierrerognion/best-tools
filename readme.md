@@ -504,6 +504,8 @@
 - Jupyter - https://jupyter.org/
 - CSS Grid Generator - https://cssgrid-generator.netlify.com/
 - Gifski - https://gif.ski/ Create high-quality GIFs.
+- Screenflow - http://www.telestream.net/screenflow/ Video editing
+- Cubase - https://new.steinberg.net/cubase/ Sound Design
 
 ## Other Curated Lists
 
