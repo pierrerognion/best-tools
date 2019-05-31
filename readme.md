@@ -141,6 +141,8 @@
 
 - Undraw - https://undraw.co/
 - DrawKit - https://www.drawkit.io
+- Icons8 - https://icons8.com/
+- Humaaans - https://www.humaaans.com/
 
 ## Design Resources
 - Figma Freebies - https://www.figmafreebies.com/
