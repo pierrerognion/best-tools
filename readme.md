@@ -81,6 +81,7 @@
 - Github Learning Lab - https://lab.github.com/courses
 - Coursera - coursera.org
 - DesignCode - https://designcode.io/
+- Watch and Code: Practical Javascript - https://watchandcode.com/p/practical-javascript
 
 ## Search engine tech
 
