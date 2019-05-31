@@ -420,6 +420,7 @@
 - Momentum
 - Whatruns
 - Wappalyzer
+- Octotree - https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc
 
 ## Business Intelligence tools
 - Tableau - https://www.tableau.com/
