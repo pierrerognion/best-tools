@@ -510,5 +510,6 @@
 - The Book of Secret Knowledge - https://github.com/trimstray/the-book-of-secret-knowledge
 - Spark Joy - https://github.com/sw-yx/spark-joy Various design resources to spark joy in your apps and websites
 - Awesome React Framer X - https://github.com/davo/awesome-react-framer-x
+- DesignCode.io resources - https://designcode.io/learn
 
 ... and my website https://pierrerognion.com/
