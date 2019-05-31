@@ -62,6 +62,7 @@
 - Expo.io - https://expo.io/ Build, deploy, and iterate on React Native apps.
 - Express - https://expressjs.com/
 - Mocha - https://mochajs.org/
+- Carbon - https://carbon.now.sh/ Create and share beautiful images of your source code.
 
 ## 📚 Courses
 
@@ -499,6 +500,7 @@
 - Squatch - https://www.referralsaasquatch.com/ Run referral programs
 - Jupyter - https://jupyter.org/
 - CSS Grid Generator - https://cssgrid-generator.netlify.com/
+- Gifski - https://gif.ski/ Create high-quality GIFs.
 
 ## Other Curated Lists
 
@@ -511,5 +513,6 @@
 - Spark Joy - https://github.com/sw-yx/spark-joy Various design resources to spark joy in your apps and websites
 - Awesome React Framer X - https://github.com/davo/awesome-react-framer-x
 - DesignCode.io resources - https://designcode.io/learn
+- Prototypr - https://www.prototypr.io/home
 
 ... and my website https://pierrerognion.com/
