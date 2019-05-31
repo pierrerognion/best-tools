@@ -172,6 +172,7 @@
 - Behance
 - Pages.xyz
 - Bootstrap Expo - https://expo.getbootstrap.com/
+- Webframe - https://webframe.xyz/
 
 ## Design Guidelines
 
@@ -213,6 +214,10 @@
 - Axure - https://www.axure.com/
 - Flinto - https://www.flinto.com/
 - Principle - https://principleformac.com/
+
+## Design Thinking and UX
+- Design Thinking Make Break Repeat - http://designthinkmakebreakrepeat.com/ Design Thinking mathodologies
+- User Experience Guide - https://www.userexperience.guide/ Free UX resources
 
 ## Sketch Extensions
 
@@ -492,6 +497,7 @@
 - SendGrid - https://sendgrid.com/ Email delivery service: notifications, promotional, password reset, etc.
 - Squatch - https://www.referralsaasquatch.com/ Run referral programs
 - Jupyter - https://jupyter.org/
+- CSS Grid Generator - https://cssgrid-generator.netlify.com/
 
 ## Other Curated Lists
 
