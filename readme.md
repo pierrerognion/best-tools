@@ -121,6 +121,7 @@
 - Pexels - https://www.pexels.com/
 - The Stocks 2 - http://thestocks.im/
 - StockSnap.io - https://stocksnap.io/
+- Zipplist - https://zipplist.co/
 
 ## 🔥 Icons
 
@@ -506,6 +507,7 @@
 - Gifski - https://gif.ski/ Create high-quality GIFs.
 - Screenflow - http://www.telestream.net/screenflow/ Video editing
 - Cubase - https://new.steinberg.net/cubase/ Sound Design
+- Makerpad - https://www.makerpad.co/ Makerpad is a no-code platform for professionals & creators
 
 ## Other Curated Lists
 
