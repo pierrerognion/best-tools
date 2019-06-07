@@ -274,8 +274,8 @@
 
 ## 📈 Web and Product Analytics/Customer Data Infrastructure
 
-- Google Analytics
-- Google Data Studio
+- Google Analytics - https://analytics.google.com/
+- Google Data Studio - https://datastudio.google.com/
 - Segment - https://segment.com/
 - Lookback - https://lookback.io/
 - Amplitude - https://amplitude.com/
