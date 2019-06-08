@@ -379,7 +379,7 @@
 - Mailchimp - Online email marketing and contact management
 - Donut - Onboarding bot
 - Heytaco - Build stronger happier teams
-- Github
+- Github 
 - Arc - Google Analytics summarized
 - Simple Poll - Create native polls in Slack
 - Zoom
@@ -393,10 +393,10 @@
 
 ## ⚡️ Automation
 
-- Zapier
-- IFTTT
-- Parabola
-- Integromat
+- Zapier - https://zapier.com/
+- IFTTT - https://ifttt.com/
+- Parabola - https://parabola.io/
+- Integromat - https://www.integromat.com/
 
 ## Online Signature
 
@@ -407,7 +407,7 @@
 ## Authentication & Single Sign-On
 
 - OKTA - https://developer.okta.com/
-- Auth0
+- Auth0 - https://auth0.com/
 
 ## Youtube Channels - UI
 
@@ -416,16 +416,16 @@
 ## Chrome Extensions 
 
 - Spider - https://spider.amie-chen.com/ Web scrapping tool
-- Notion
-- React Developer Tools
-- Pocket
-- Color Zilla
-- FontFace Ninja
-- Loom
-- JSON Viewer
-- Momentum
-- Whatruns
-- Wappalyzer
+- Notion - https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk
+- React Developer Tools - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+- Pocket - https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj
+- Color Zilla - https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+- FontFace Ninja - https://chrome.google.com/webstore/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh
+- Loom - https://www.loom.com/
+- JSON Viewer - https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
+- Momentum - https://momentumdash.com/
+- Whatruns - https://www.whatruns.com/
+- Wappalyzer - https://www.wappalyzer.com/
 - Octotree - https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc
 
 ## Business Intelligence tools
@@ -434,14 +434,14 @@
 
 ## Social Media Campaigns
 
-- Sprinklr
-- Hootsuite
-- Buffer
+- Sprinklr - https://www.sprinklr.com/
+- Hootsuite - https://hootsuite.com/
+- Buffer - https://buffer.com/
 
 ## Link shortener
 
 - Rebrandly - https://app.rebrandly.com/links
-- Bit.ly
+- Bit.ly - https://bitly.com/
 
 ## Relocation & Remote Work Resources
 
@@ -451,10 +451,10 @@
 
 ## 🤡 Other
 
-- Reset CSS
-- Excuses For Lazy Coders
-- Scotch.io
-- Datadog
+- Reset CSS - https://meyerweb.com/eric/tools/css/reset/
+- Excuses For Lazy Coders - http://programmingexcuses.com/
+- Scotch.io - https://scotch.io/
+- Datadog - https://www.datadoghq.com/
 - Cash.app - https://cash.app/bitcoin
 - HTML Characters Reference - https://dev.w3.org/html5/html-author/charref
 - List of CSS properties - https://webplatform.github.io/docs/css/
@@ -477,7 +477,7 @@
 - Design resources - https://trydesignlab.com/resources/
 - http://andrealikes.to/
 - UI Names - https://uinames.com/ Fake UI names generator
-- Namecheap
+- Namecheap - https://www.namecheap.com/
 - Mega Proxy - https://www.megaproxy.com/freesurf/
 - TempMail - https://temp-mail.org/fr/ Disposable email address
 - Strikingly - https://www.strikingly.com/ Instant Website Builder
@@ -488,7 +488,7 @@
 - Learn Enough Command Line to Be Dangerous - https://www.learnenough.com/command-line-tutorial/basics
 - RubyGems - https://rubygems.org/
 - Coda.io - https://coda.io/ Smart spreadsheets
-- Pablo
+- Pablo - https://pablo.buffer.com/
 - Draw.io - https://www.draw.io/ Diagrams and flowcharts maker
 - Twilio - https://www.twilio.com/ Communication APIs for SMS, Voice, Video, and Authentication
 - Tableau - https://www.tableau.com/
@@ -500,7 +500,7 @@
 - Blobmaker - https://www.blobmaker.app/ The easiest way to create SVG blobs.
 - Postmark - https://postmarkapp.com/
 - Docz - https://www.docz.site/ Documentation generator for projects, design systems, etc.
-- Twilio
+- Twilio - https://www.twilio.com/
 - SendGrid - https://sendgrid.com/ Email delivery service: notifications, promotional, password reset, etc.
 - Squatch - https://www.referralsaasquatch.com/ Run referral programs
 - Jupyter - https://jupyter.org/
