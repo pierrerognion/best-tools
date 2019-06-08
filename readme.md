@@ -353,14 +353,14 @@
 
 ## 🗞 Tech News
 
-- Medium
-- Hacker News
-- Product Hunt
-- The Verge
-- Techcrunch
-- Re/Code
-- The Next Web
-- CSS Tricks
+- Medium - https://medium.com/
+- Hacker News - https://news.ycombinator.com/
+- Product Hunt - https://www.producthunt.com/
+- The Verge - https://www.theverge.com/
+- Techcrunch - https://techcrunch.com/
+- Re/Code - https://www.vox.com/recode
+- The Next Web - https://thenextweb.com/
+- CSS Tricks - https://css-tricks.com/
 - DEV.to - https://dev.to/
 - freeCodeCamp - https://www.freecodecamp.org/news/
 
