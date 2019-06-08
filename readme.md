@@ -125,6 +125,7 @@
 
 ## 🔥 Icons
 
+- Feathericons - https://feathericons.com/
 - Font Awesome - https://fontawesome.com/
 - Orion - https://orioniconlibrary.com/ Icon library
 - Nucleo - https://nucleoapp.com/ Icon Organizer & icon library
