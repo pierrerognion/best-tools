@@ -174,9 +174,9 @@
 
 - Muzli - https://medium.muz.li/
 - Muzli Search - https://search.muz.li/
-- Dribbble
-- Behance
-- Pages.xyz
+- Dribbble - https://dribbble.com/
+- Behance - https://www.behance.net/
+- Pages.xyz - https://www.pages.xyz/
 - Bootstrap Expo - https://expo.getbootstrap.com/
 - Webframe - https://webframe.xyz/
 
@@ -193,8 +193,8 @@
 
 ## 🖼 UI Components Management
 
-- Storybook
-- Bit.dev
+- Storybook - https://storybook.js.org/
+- Bit.dev - https://bit.dev/
 
 ## Design Portfolios 
 
@@ -228,13 +228,13 @@
 ## Sketch Extensions
 
 - Craft - https://www.invisionapp.com/craft
-- Sketch Material
-- Angle
-- Map Generator
-- Symbol Organizer
-- Sketch Isometric
-- Paddy
-- Unsplash
+- Sketch Material - https://material.io/tools/theme-editor/
+- Angle - https://designcode.io/angle
+- Map Generator - https://github.com/eddiesigner/sketch-map-generator
+- Symbol Organizer - https://github.com/sonburn/symbol-organizer
+- Sketch Isometric - https://github.com/sureskumar/sketch-isometric
+- Paddy - https://github.com/DWilliames/paddy-sketch-plugin
+- Unsplash - https://unsplash.com/
 
 ## 📩 Email
 
@@ -287,18 +287,18 @@
 
 ## 🗣 Social
 
-- Slack
-- Discord
-- Twitter
-- Reddit
+- Slack - https://slack.com/
+- Discord - https://discordapp.com/
+- Twitter - https://twitter.com/
+- Reddit - https://www.reddit.com/
 
 ## Video Meetings
 
 - Zoom.us - https://zoom.us/
 - Google Hangout - https://hangouts.google.com/
 - Appear.in - https://appear.in/
-- Skype
-- WebEx
+- Skype - https://www.skype.com/
+- WebEx - https://www.webex.com/
 
 ## 🔎 Internal wiki
 
@@ -308,7 +308,7 @@
 
 ## Cartoon animations
 
-- Vyond
+- Vyond - https://www.vyond.com/
 - Powtoon - https://www.powtoon.com/home/
 
 ## 😎 One-for-all apps
@@ -319,9 +319,9 @@
 
 ## 📕 Project Management
 
-- Trello
-- Asana
-- JIRA
+- Trello - https://trello.com/
+- Asana - https://asana.com/
+- JIRA - atlassian.com/software/jira
 - Basecamp - https://basecamp.com/
 
 ## Product Management 
@@ -330,17 +330,17 @@
 
 ## 🧪 Magic Boards
 
-- MIRO
-- Whimsical
+- MIRO - https://miro.com/
+- Whimsical - https://whimsical.com/
 
 ## ✅ Todo
 
-- Things
-- Todoist
+- Things - https://culturedcode.com/things/
+- Todoist - https://todoist.com/
 
 ## 🔐 Security
 
-- 1Password
+- 1Password - https://1password.com/
 
 ## Roadmaps
 
