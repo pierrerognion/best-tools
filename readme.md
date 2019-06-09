@@ -513,6 +513,7 @@
 ## Resume Builders
 - FlowCV - https://flowcv.io/
 - Standard Resume - https://app.standardresume.co/
+- Canva - https://www.canva.com/
 
 ## Other Curated Lists
 
