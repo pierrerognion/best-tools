@@ -510,6 +510,10 @@
 - Cubase - https://new.steinberg.net/cubase/ Sound Design
 - Makerpad - https://www.makerpad.co/ Makerpad is a no-code platform for professionals & creators
 
+## Resume Builders
+- FlowCV - https://flowcv.io/
+- Standard Resume - https://app.standardresume.co/
+
 ## Other Curated Lists
 
 - Awesome Ruby - https://github.com/markets/awesome-ruby
