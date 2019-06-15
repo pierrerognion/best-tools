@@ -158,6 +158,9 @@
 - Freebie Supply - https://freebiesupply.com/
 - Bottts - https://bottts.com/ Bots for Sketch
 - UI8 - https://ui8.net/
+- Adele - https://adele.uxpin.com/ Repository of publicly available design systems and pattern libraries
+- Cruip - https://cruip.com/ Free landing page templates for startups.
+- One Page Love - https://onepagelove.com/ One Page websites, templates and resources
 
 ## UI Kits 
 
@@ -509,6 +512,14 @@
 - Screenflow - http://www.telestream.net/screenflow/ Video editing
 - Cubase - https://new.steinberg.net/cubase/ Sound Design
 - Makerpad - https://www.makerpad.co/ Makerpad is a no-code platform for professionals & creators
+- Plaid - https://plaid.com/
+- Reflector - https://www.airsquirrels.com/reflector Wireless screen-mirroring application
+- Fouderpad - https://www.founderpad.co/
+- Statuspage - https://www.statuspage.io/
+- IndieHackers - https://www.indiehackers.com/
+- Dev Hints - https://devhints.io/ Cheatsheets for devs
+- Prisma - https://www.prisma.io/
+- Epic Jobs - https://epicjobs.co/
 
 ## Resume Builders
 - FlowCV - https://flowcv.io/
