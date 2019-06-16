@@ -161,6 +161,7 @@
 - Adele - https://adele.uxpin.com/ Repository of publicly available design systems and pattern libraries
 - Cruip - https://cruip.com/ Free landing page templates for startups.
 - One Page Love - https://onepagelove.com/ One Page websites, templates and resources
+- Design resources - https://trydesignlab.com/resources/
 
 ## UI Kits 
 
@@ -202,6 +203,7 @@
 ## Design Portfolios 
 
 - Zach Krasner - http://design.zachkrasner.com/
+- Andrealikes Portfolio - http://andrealikes.to/
 
 ## 🎨 Color palette
 
@@ -287,6 +289,7 @@
 - Mixpanel - https://mixpanel.com/
 - Optimizely - https://www.optimizely.com/
 - Hotjar - https://www.hotjar.com/
+- Tableau - https://www.tableau.com/
 
 ## 🗣 Social
 
@@ -446,11 +449,12 @@
 - Rebrandly - https://app.rebrandly.com/links
 - Bit.ly - https://bitly.com/
 
-## Relocation & Remote Work Resources
+## Job boards, Relocation & Remote Work Resources
 
 - NomadList - https://nomadlist.com/
 - Remote OK - https://remoteok.io/
 - Relocate.me - https://relocate.me/
+- Epic Jobs - https://epicjobs.co/
 
 ## 🤡 Other
 
@@ -477,8 +481,6 @@
 - Snazzy Maps - https://snazzymaps.com/
 - Light Widget - https://lightwidget.com/ Responsive Instagram widgets
 - Emojipedia - https://emojipedia.org/
-- Design resources - https://trydesignlab.com/resources/
-- http://andrealikes.to/
 - UI Names - https://uinames.com/ Fake UI names generator
 - Namecheap - https://www.namecheap.com/
 - Mega Proxy - https://www.megaproxy.com/freesurf/
@@ -494,7 +496,6 @@
 - Pablo - https://pablo.buffer.com/
 - Draw.io - https://www.draw.io/ Diagrams and flowcharts maker
 - Twilio - https://www.twilio.com/ Communication APIs for SMS, Voice, Video, and Authentication
-- Tableau - https://www.tableau.com/
 - CloudApp - https://www.getcloudapp.com/
 - Upmostly - https://upmostly.com/tutorials/ React Tutorials
 - Get Sandbox - https://getsandbox.com/
@@ -514,12 +515,10 @@
 - Makerpad - https://www.makerpad.co/ Makerpad is a no-code platform for professionals & creators
 - Plaid - https://plaid.com/
 - Reflector - https://www.airsquirrels.com/reflector Wireless screen-mirroring application
-- Fouderpad - https://www.founderpad.co/
 - Statuspage - https://www.statuspage.io/
 - IndieHackers - https://www.indiehackers.com/
 - Dev Hints - https://devhints.io/ Cheatsheets for devs
 - Prisma - https://www.prisma.io/
-- Epic Jobs - https://epicjobs.co/
 
 ## Resume Builders
 - FlowCV - https://flowcv.io/
@@ -539,5 +538,6 @@
 - DesignCode.io resources - https://designcode.io/learn
 - Prototypr - https://www.prototypr.io/home
 - Undesign - https://undesign.learn.uno/
+- Fouderpad - https://www.founderpad.co/
 
 ... and my website https://pierrerognion.com/
