@@ -247,6 +247,7 @@
 - Mailjet - https://www.mailjet.com/
 - Front - https://frontapp.com/ Shared inbox for teams
 - Email Regex - http://emailregex.com/
+- Postmark - https://postmarkapp.com/
 
 ## 📊 CRM & Marketing Automation
 
@@ -369,6 +370,7 @@
 - CSS Tricks - https://css-tricks.com/
 - DEV.to - https://dev.to/
 - freeCodeCamp - https://www.freecodecamp.org/news/
+- IndieHackers - https://www.indiehackers.com/
 
 ## 🤳 Screencast & GIF
 - Loom - https://www.loom.com/
@@ -502,7 +504,6 @@
 - JSON Generator - https://www.json-generator.com/ Tool for generating random JSON data
 - Carrd - https://carrd.co/ Simple, free, fully responsive one-page sites.
 - Blobmaker - https://www.blobmaker.app/ The easiest way to create SVG blobs.
-- Postmark - https://postmarkapp.com/
 - Docz - https://www.docz.site/ Documentation generator for projects, design systems, etc.
 - Twilio - https://www.twilio.com/
 - SendGrid - https://sendgrid.com/ Email delivery service: notifications, promotional, password reset, etc.
@@ -516,7 +517,6 @@
 - Plaid - https://plaid.com/
 - Reflector - https://www.airsquirrels.com/reflector Wireless screen-mirroring application
 - Statuspage - https://www.statuspage.io/
-- IndieHackers - https://www.indiehackers.com/
 - Dev Hints - https://devhints.io/ Cheatsheets for devs
 - Prisma - https://www.prisma.io/
 
