@@ -1,5 +1,3 @@
-⚠️ WARNING: Work in progress. More links to come, with hyperlinks too... Come back later 😎
-
 ## 🖥 Command Line
 
 - iTerm2 - https://www.iterm2.com/
