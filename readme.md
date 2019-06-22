@@ -160,6 +160,7 @@
 - Cruip - https://cruip.com/ Free landing page templates for startups.
 - One Page Love - https://onepagelove.com/ One Page websites, templates and resources
 - Design resources - https://trydesignlab.com/resources/
+- Shape - https://shape.so/
 
 ## UI Kits 
 
