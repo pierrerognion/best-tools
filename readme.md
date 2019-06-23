@@ -1,13 +1,13 @@
 ## 🖥 Command Line
 
-- iTerm2 - https://www.iterm2.com/
-- Hyper - https://hyper.is/
+- [iTerm2](https://www.iterm2.com/)
+- [Hyper](https://hyper.is/)
 
 ## 🛠 Source-Code Editors
 
-- Visual Studio Code - https://code.visualstudio.com/download
-- Sublime Text - https://www.sublimetext.com/
-- Atom - https://atom.io/
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Sublime Text](https://code.visualstudio.com/download)
+- [Atom](https://atom.io/)
 
 ## 🔧 IDE
 
