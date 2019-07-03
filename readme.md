@@ -347,10 +347,12 @@
 ## 🔐 Security
 
 - 1Password - https://1password.com/
+- Lastpass
 
 ## Roadmaps
 
 - Productboard https://www.productboard.com/
+- Miro
 - Roadmunk - https://roadmunk.com/
 - Monday - https://monday.com/
 - Aha - https://www.aha.io/
