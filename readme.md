@@ -525,6 +525,7 @@
 
 ## Resume Builders
 - FlowCV - https://flowcv.io/
+- ResumeAI - https://withresumeai.com/ (free ATS checker + AI resume builder)
 - Standard Resume - https://app.standardresume.co/
 - Canva - https://www.canva.com/
 
