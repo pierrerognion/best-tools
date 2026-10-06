@@ -463,6 +463,7 @@
 
 ## 🤡 Other
 
+- Follower Growth Calculator (Czech) - https://tvojelajky.cz/nastroje/tempo-rustu Free manual calculator for the net difference and daily/weekly averages needed to reach a follower target over a chosen number of days.
 - Reset CSS - https://meyerweb.com/eric/tools/css/reset/
 - Excuses For Lazy Coders - http://programmingexcuses.com/
 - Scotch.io - https://scotch.io/
